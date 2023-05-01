@@ -10,9 +10,9 @@
 
 ## Objectives
 
--The objective is to find the hydraulic pressure loss occurring in the drill pipe, drill collar, drill bit, drill collar annulus, drill pipe annulus and casing annulus with changing flowrate.
--To find the velocity of rock cuttings with changing flowrates.
--To find the concentrations and the density of the mud with changing flowrates.
+- The objective is to find the hydraulic pressure loss occurring in the drill pipe, drill collar, drill bit, drill collar annulus, drill pipe annulus and casing annulus with changing flowrate.
+- To find the velocity of rock cuttings with changing flowrates.
+- To find the concentrations and the density of the mud with changing flowrates.
 
 
 ## Conclusion
